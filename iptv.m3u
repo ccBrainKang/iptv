@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bloomberg",Politics Live
+https://liveproduseast.global.ssl.fastly.net/pol/Channel-POL-AWS-virginia-1/Source-POL-240-1_live.m3u8
+#EXTINF:-1 group-title="Bloomberg",BTV USA Plus
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="Bloomberg",Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="Bloomberg",US Live Event
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="Bloomberg",US Bloomberg
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="Bloomberg",Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="Bloomberg",Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
